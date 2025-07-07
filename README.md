@@ -15,6 +15,7 @@ Turbo-rails
 🚀 Como rodar o projeto localmente
 # Clone o repositório
 git clone https://github.com/BrunoRamos22/ArqStore.git
+
 cd Store
 
 # abra o VSCode
